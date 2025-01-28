@@ -1,11 +1,13 @@
-- 👋 Hello, I'm Rafael Gomes
-- 👀 I'm interested in automation hardware and applications
+# Hi! I'm Rafael Gomes.
 
-- 📫 How to contact me email: rafaelgomes8994@gmail.com
+- 🎓 **Computer Engineering Student** at the Federal University of Sergipe (UFS), Brazil.  
+- 🔧 **Technical Degree in Electrotechnics** from the Federal Institute of Sergipe (IFS).  
+- 🌟 Experience in **C**, **Java**,**Haskell**, **Assembly**, and **Verilog**.  
+- 📘 Currently learning **Data Structures**, **MIPS Assembly**, and **Digital System Design**.  
+- 🌐 Passionate about hardware, software integration, and low-level programming.  
 
-- ⚡ Curiosity: addicted to hardware assembly and frequent circuit assembler
+---
 
-<!---
-RafaelGomes8994/RafaelGomes8994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Rafael Gomes's GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGomes8994&layout=donut-vertical&show_icons=true&theme=transparent)](https://github.com/RafaelGomes8994/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelGomes8994&show_icons=true&theme=transparent) 

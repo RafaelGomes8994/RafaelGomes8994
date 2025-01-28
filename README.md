@@ -6,6 +6,6 @@
 - ⚡ Curiosity: addicted to hardware assembly and frequent circuit assembler
 
 <!---
-Ragamer544/Ragamer544 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RafaelGomes8994/RafaelGomes8994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

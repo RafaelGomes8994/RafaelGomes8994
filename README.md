@@ -2,7 +2,7 @@
 
 - 🎓 **Computer Engineering Student** at the Federal University of Sergipe (UFS), Brazil.  
 - 🔧 **Technical Degree in Electrotechnics** from the Federal Institute of Sergipe (IFS).  
-- 🌟 Experience in **C**, **C++** ,**Java**,**Haskell**, **Assembly**, and **Verilog**.  
+- 🌟 Experience in **C**, **C++**,**Java**,**Haskell**, **Assembly**, and **Verilog**.  
 - 📘 Currently learning **Data Structures**, **MIPS Assembly**, and **Digital System Design**.  
 - 🌐 Passionate about hardware, software integration, and low-level programming.  
 

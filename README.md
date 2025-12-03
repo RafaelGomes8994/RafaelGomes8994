@@ -40,8 +40,8 @@ Aqui estão algumas das tecnologias e linguagens com as quais tenho trabalhado:
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RafaelGomes8994&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub de RafaelGomes8994" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGomes8994&layout=compact&theme=github_dark" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RafaelGomes8994&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub de RafaelGomes8994/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGomes8994&layout=compact&theme=github_dark" alt="Top Langs"/>
 </p>
 
 ---

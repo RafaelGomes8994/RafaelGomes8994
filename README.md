@@ -43,14 +43,6 @@ Aqui estão algumas das tecnologias e linguagens com as quais tenho trabalhado:
     <img src="https://github-readme-stats.vercel.app/api?username=RafaelGomes8994&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub de RafaelGomes8994" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGomes8994&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
----
-
-<p align="center">
-    <img src="Files/cobrinha.svg" alt="Animação de cobra do GitHub" width="1200" />
-</p>
-
----
-
 <p align="center">
   <img src="Files/zoro.gif" alt="Zoro" width="500"/>
 </p>

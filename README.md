@@ -25,8 +25,8 @@
 
 - **Microcontrollers & Architectures:** ESP32, ESP32-S3 (Xtensa LX7), WCH CH32V003 (32-bit RISC-V), Arduino, x86-64, MIPS.
 - **RTOS & Bare-Metal:** FreeRTOS (tasks, queues, semaphores), register-level flash/DMI programming, Xtensa Assembly, Linux Kernel Modules (`input_handler`, `workqueue`, kernel TCP sockets).
-- **Buses & Interfaces:** I2C (including bus lockup recovery), UART/USB-UART, 1-Wire SWIO/DMI, LEDC PWM, H-Bridge (CP6208 / L9110S), GPIO/PWM.
-- **Wireless & Telemetry:** BLE HID, Wi-Fi, TCP telemetry framing, host-to-device Python CLIs.
+- **Buses, Sensors & Interfaces:** I2C (multi-device addressing & bus lockup recovery), UART/USB-UART, 1-Wire SWIO/DMI, LEDC PWM, H-Bridge motor drivers (`CP6208`, `L9110S`), load-cell ADCs (`HX711`), `RFID/NFC` readers, GPIO/PWM.
+- **Wireless & Telemetry:** BLE HID, Wi-Fi, TCP telemetry framing, MQTT publishers, host-to-device Python CLIs.
 - **Hardware & HDL:** Circuit analysis, schematics/datasheets reading, VHDL, Verilog, Electrotechnics background.
 
 </details>

@@ -1,40 +1,82 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=520&lines=Rafael+Gomes+%7C+Firmware+%26+Embedded+Systems)](https://git.io/typing-svg)
+<div align="center">
 
-### About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Rafael+Gomes+%7C+Firmware+%26+Embedded+Systems;C%2FC%2B%2B+%E2%80%A2+FreeRTOS+%E2%80%A2+ESP32-S3+%E2%80%A2+RISC-V;Hardware-Software+Integration+%26+IoT)](https://git.io/typing-svg)
 
-- 🎓 **Computer Engineering** student at the Federal University of Sergipe (**UFS**), Brazil.
+![Profile Views](https://komarev.com/ghpvc/?username=RafaelGomes8994&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gomes-oliveira-santos-457104233/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelgomes8994@gmail.com)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **B.Sc. in Computer Engineering** at the Federal University of Sergipe (**UFS**), Brazil.
 - ⚡ **Technical Degree in Electrotechnics** from the Federal Institute of Sergipe (**IFS**).
 - 🔧 Focused on **Firmware Engineering, Embedded Systems, IoT, and Low-Level Programming** (bare-metal & RTOS).
-- 🛠️ Hands-on experience with **C, C++, FreeRTOS, ESP32/ESP32-S3, CH32V003 (RISC-V), Python, and hardware debugging**.
+- 🛠️ Hands-on experience with **C, C++, FreeRTOS, ESP32/ESP32-S3, CH32V003 (RISC-V), Python, and bench hardware debugging**.
+
+<details>
+<summary><b>⚡ Hardware, Protocols & Toolchain Deep-Dive (click to expand)</b></summary>
+<br>
+
+- **Microcontrollers & Architectures:** ESP32, ESP32-S3 (Xtensa LX7), WCH CH32V003 (32-bit RISC-V), Arduino, x86-64, MIPS.
+- **RTOS & Bare-Metal:** FreeRTOS (tasks, queues, semaphores), register-level flash/DMI programming, interrupt & signal handling.
+- **Buses & Interfaces:** I2C (including bus lockup recovery), UART/USB-UART, 1-Wire SWIO/DMI, GPIO/PWM, H-Bridge (CP6208), HX711 load cells, RFID/NFC.
+- **Wireless & Telemetry:** Wi-Fi, MQTT publishers, host-to-device Python CLIs.
+- **Hardware & HDL:** Circuit analysis, schematics/datasheets reading, VHDL, Verilog, Electrotechnics background.
+
+</details>
 
 ---
 
-### Embedded & Systems Stack
+### 🛠️ Tech Stack
 
-- **Languages:** `C` · `C++` · `Python` · `VHDL` · `Verilog` · `Assembly (x86-64 / MIPS)`
-- **MCUs & RTOS:** `ESP32 / ESP32-S3` · `WCH CH32V003 (RISC-V)` · `Arduino` · `FreeRTOS`
-- **Protocols & Buses:** `I2C` · `UART` · `SWIO / DMI` · `RFID / NFC` · `Wi-Fi / MQTT`
-- **Tools:** `PlatformIO` · `GCC / RISC-V Toolchain` · `Git & GitHub` · `Linux`
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=espressif&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32%20%2F%20S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V%20(CH32V003)-283272?style=for-the-badge&logo=riscv&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+[![Skill Icons](https://skillicons.dev/icons?i=c,cpp,py,arduino,linux,git,github,vscode,bash)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 | Project | Stack | Highlights |
 | :--- | :--- | :--- |
-| **[esp32s3-ch32-programmer](https://github.com/RafaelGomes8994/esp32s3-ch32-programmer)** | `C/C++` · `ESP32-S3` · `RISC-V` · `Python` | 1-wire SWIO programmer/debugger for CH32V003 MCUs (16 KB Flash / 2 KB SRAM) with 3-stage flash unlock, 64-byte page erase/write, byte-for-byte verification, and Python USB-UART CLI. |
+| **[esp32s3-ch32-programmer](https://github.com/RafaelGomes8994/esp32s3-ch32-programmer)** | `C/C++` · `ESP32-S3` · `RISC-V` · `Python` | Hardware-verified 1-wire SWIO programmer/debugger for **CH32V003** MCUs (16 KB Flash / 2 KB SRAM) with 3-stage flash unlock, 64-byte page erase/write, byte-for-byte readback verification, and Python USB-UART CLI. |
 | **Exact Meal — IoT Smart Scale & Checkout** | `C/C++` · `ESP32` · `CH32V003` · `I2C` | Distributed embedded firmware: ESP32 concentrator (RFID/NFC, I2C bus recovery, Wi-Fi telemetry) + CH32V003 local scale nodes with HX711 load-cell driver. |
 | **Low-Level Systems & Hardware-Software Interface** | `C` · `x86-64` · `FreeRTOS` · `VHDL` | Dynamic JIT binary translator in C (`mmap`, `SIGTRAP`/`SIGSEGV`, machine-code emission), RTOS task synchronization, and VHDL digital systems. |
 
 ---
 
-### Connect
+### 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafael-gomes-oliveira-santos-457104233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rafaelgomes8994@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelGomes8994&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGomes8994&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RafaelGomes8994&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelGomes8994&theme=tokyo-night&hide_border=true&area=true)](https://github.com/RafaelGomes8994)
+
+</div>

@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Rafael+Gomes+%7C+Firmware+%26+Embedded+Systems;C%2FC%2B%2B+%E2%80%A2+FreeRTOS+%E2%80%A2+ESP32-S3+%E2%80%A2+RISC-V;Hardware-Software+Integration+%26+IoT)](https://git.io/typing-svg)
+<h1>Rafael Gomes</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Firmware+%26+Embedded+Systems;C%2FC%2B%2B+%E2%80%A2+FreeRTOS+%E2%80%A2+ESP32-S3+%E2%80%A2+RISC-V;Linux+Kernel+Modules+%26+IoT)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RafaelGomes8994&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gomes-oliveira-santos-457104233/)
@@ -42,6 +44,7 @@
 ![Espressif](https://img.shields.io/badge/ESP32%20%2F%20S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V%20(CH32V003)-283272?style=for-the-badge&logo=riscv&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -68,15 +71,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelGomes8994&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGomes8994&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RafaelGomes8994&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelGomes8994&theme=tokyo-night&hide_border=true&area=true)](https://github.com/RafaelGomes8994)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelGomes8994&theme=tokyonight" alt="Profile Details"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelGomes8994&theme=tokyonight" alt="Repos per Language"/>
+<img src="https://streak-stats.demolab.com?user=RafaelGomes8994&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>

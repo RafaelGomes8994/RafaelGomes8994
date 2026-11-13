@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Firmware+%26+Embedded+Systems;C%2FC%2B%2B+%E2%80%A2+FreeRTOS+%E2%80%A2+ESP32-S3+%E2%80%A2+RISC-V;Linux+Kernel+Modules+%26+IoT)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RafaelGomes8994&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gomes-oliveira-santos-457104233/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gomes89/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelgomes8994@gmail.com)
 
 </div>
